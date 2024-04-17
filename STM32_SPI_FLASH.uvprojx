@@ -680,16 +680,6 @@
           <GroupName>Hardware</GroupName>
           <Files>
             <File>
-              <FileName>bsp_led_test.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\bsp_led_test.c</FilePath>
-            </File>
-            <File>
-              <FileName>bsp_led_test.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\bsp_led_test.h</FilePath>
-            </File>
-            <File>
               <FileName>bsp_usart.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\bsp_usart.c</FilePath>
